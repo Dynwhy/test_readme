@@ -123,5 +123,5 @@ class DatabaseSeeder extends Seeder
 ```
 php artisan db:seed
 ```
-selesailah tugas membuat tabel Kategori tersebut.
+selesailah tugas membuat tabel Kategori tersebut dan selamat mencoba>.<
 # ***SEKIAN TERIMA KASIH :)***
