@@ -124,4 +124,4 @@ class DatabaseSeeder extends Seeder
 php artisan db:seed
 ```
 selesailah tugas membuat tabel Kategori tersebut.
-# ***terimas kasih***
+# ***SEKIAN TERIMA KASIH :)***
